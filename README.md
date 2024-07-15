@@ -5,8 +5,10 @@ Given a pair of images captured keeping the image planes parallel to each other 
 
 ## Input
 
-<img src="data/cones_im2.png" width="200" height="400" align="left" />
-<img src="data/cones_im6.png" width="200" height="400" align="right"/>
+<p>
+  <img src="data/cones_im2.png" width="200" height="400"  />
+  <img src="data/cones_im6.png" width="200" height="400" />
+</p>
 <br>
 
 ## Output
